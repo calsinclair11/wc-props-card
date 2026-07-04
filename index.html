@@ -94,13 +94,13 @@
 <h2>Shadow candidates on this card (57–59.9%)</h2>
 <div id="shadow-card"></div>
 
+<h2>Vetoed candidates</h2>
+<div id="vetoed"></div>
+
 <h2>Exhibition pick — one per match</h2>
 <div id="exhibition"></div>
 <div class="record" id="exh-record"></div>
 <div class="tbl-wrap" id="exh-ledger-wrap" style="margin-top:8px"></div>
-
-<h2>Vetoed candidates</h2>
-<div id="vetoed"></div>
 
 <h2>Shadow ledger</h2>
 <div class="record" id="shadow-record"></div>
@@ -108,7 +108,11 @@
 
 <h2>Calibration</h2>
 <div class="strip" id="calibration"></div>
-<div class="meta" style="margin-top:6px">Blue tick = implied (average devigged %). Bar = actual hit rate over settled rows (shadow + played). Judge on 30+ rows, not 5.</div>
+<div class="meta" style="margin-top:6px">Blue tick = implied (average devigged %). Bar = actual hit rate over settled rows (shadow + played; exhibition is its own ledger and is never merged in). Judge on 30+ rows, not 5.</div>
+
+<footer style="margin-top:34px; padding-top:14px; border-top:1px solid var(--line); color:var(--dim); font-size:12px; text-align:center">
+  Personal research project — not betting advice.
+</footer>
 
 <script>
 "use strict";
