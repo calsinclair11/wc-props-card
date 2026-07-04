@@ -1,0 +1,21 @@
+{
+  "played": [],
+  "shadow": [
+    {
+      "date": "2026-07-05",
+      "match": "Brazil vs Norway",
+      "player": "Erling Haaland",
+      "stat": "Shots on target",
+      "line": "1.5",
+      "side": "Under",
+      "sharp": "59.2%",
+      "books": "novig, sleeper",
+      "status": "Shadow \u2014 below 60% threshold",
+      "hypothetical_outcome": "pending",
+      "notes": "First live pipeline candidate. Two-book consensus (novig 59.5 / sleeper 58.9). Risks per roles/norway.md: Haaland takes Norway's penalties (a pen \u2248 1 SOT); game state \u2014 if Norway chase late, his volume rises. Pending lineup confirmation."
+    }
+  ],
+  "exhibition": [],
+  "vetoed": [],
+  "exported_at": "2026-07-04T06:16:13Z"
+}

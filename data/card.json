@@ -1,0 +1,113 @@
+{
+  "generated_at": "2026-07-04T06:15:29Z",
+  "checkpoint": "manual",
+  "status": "ok",
+  "config": {
+    "breakeven_floor": 0.5774,
+    "entry_threshold": 0.6,
+    "shadow_threshold": 0.57,
+    "stale_minutes": 60
+  },
+  "plays": [],
+  "shadow": [
+    {
+      "player": "Erling Haaland",
+      "team": "Norway",
+      "opponent": "Brazil",
+      "stat": "shots_on_target",
+      "pp_line": 1.5,
+      "start_time": "2026-07-05T16:00:00.000-04:00",
+      "side": "under",
+      "sharp_prob": 0.592,
+      "edge_vs_power2_floor": 0.0146,
+      "books_used": [
+        "novig",
+        "sleeper"
+      ],
+      "flags": [],
+      "tier": "shadow",
+      "case": null
+    }
+  ],
+  "vetoed": [
+    {
+      "player": "Ismael Saibari",
+      "team": "Morocco",
+      "opponent": "Canada",
+      "stat": "shots",
+      "pp_line": 2.5,
+      "start_time": "2026-07-04T13:00:00.000-04:00",
+      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "opponent": "Morocco",
+      "stat": "shots_on_target",
+      "pp_line": 0.5,
+      "start_time": "2026-07-04T13:00:00.000-04:00",
+      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
+    }
+  ],
+  "exhibition": [
+    {
+      "player": "Achraf Hakimi",
+      "team": "Morocco",
+      "opponent": "Canada",
+      "stat": "shots_on_target",
+      "pp_line": 0.5,
+      "start_time": "2026-07-04T13:00:00.000-04:00",
+      "side": "under",
+      "sharp_prob": 0.516,
+      "edge_vs_power2_floor": -0.0614,
+      "books_used": [
+        "novig",
+        "sleeper"
+      ],
+      "flags": [],
+      "fixture": "2026-07-04 Canada vs Morocco",
+      "label": "below threshold",
+      "case": null
+    },
+    {
+      "player": "Kylian Mbapp\u00e9",
+      "team": "France",
+      "opponent": "Paraguay",
+      "stat": "shots_on_target",
+      "pp_line": 2.5,
+      "start_time": "2026-07-04T17:00:00.000-04:00",
+      "side": "under",
+      "sharp_prob": 0.5071,
+      "edge_vs_power2_floor": -0.0703,
+      "books_used": [
+        "novig",
+        "sleeper"
+      ],
+      "flags": [],
+      "fixture": "2026-07-04 France vs Paraguay",
+      "label": "below threshold",
+      "case": null
+    },
+    {
+      "player": "Erling Haaland",
+      "team": "Norway",
+      "opponent": "Brazil",
+      "stat": "shots_on_target",
+      "pp_line": 1.5,
+      "start_time": "2026-07-05T16:00:00.000-04:00",
+      "side": "under",
+      "sharp_prob": 0.592,
+      "edge_vs_power2_floor": 0.0146,
+      "books_used": [
+        "novig",
+        "sleeper"
+      ],
+      "flags": [],
+      "tier": "shadow",
+      "fixture": "2026-07-05 Brazil vs Norway",
+      "label": "below threshold",
+      "case": null
+    }
+  ],
+  "unmatched_count": 61
+}
