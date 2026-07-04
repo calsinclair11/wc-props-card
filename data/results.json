@@ -27,6 +27,18 @@
       "case_one_line": "\u2014 (pre-match runs didn't fire; no Layer 2\u20134 case written)",
       "result": "win",
       "notes": "0 SOT in a 3\u20130 win, 1 assist (the 50' cut-back). Settled retroactively from ESPN box score."
+    },
+    {
+      "date": "2026-07-04",
+      "match": "France vs Paraguay",
+      "player": "Kylian Mbapp\u00e9",
+      "stat": "Shots on target",
+      "line": "2.5",
+      "side": "Over",
+      "sharp": "52.5%",
+      "case_one_line": "Confirmed starter as lone striker vs a 5-4-1 low block \u2014 volume certain, clean looks not; 2.5 is a demanding SOT line even for him.",
+      "result": "pending",
+      "notes": "Late manual run at T-35 (scheduled T-90 didn't fire). Line flipped from under 2.5 overnight."
     }
   ],
   "vetoed": [
@@ -55,5 +67,5 @@
       "notes": "Non-starter = void, not loss, per settlement rules."
     }
   ],
-  "exported_at": "2026-07-04T20:23:28Z"
+  "exported_at": "2026-07-04T20:27:03Z"
 }
