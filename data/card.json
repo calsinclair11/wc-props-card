@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T06:15:29Z",
-  "checkpoint": "manual",
+  "generated_at": "2026-07-04T20:23:28Z",
+  "checkpoint": "T-35 late manual (France vs Paraguay)",
   "status": "ok",
   "config": {
     "breakeven_floor": 0.5774,
@@ -18,8 +18,8 @@
       "pp_line": 1.5,
       "start_time": "2026-07-05T16:00:00.000-04:00",
       "side": "under",
-      "sharp_prob": 0.592,
-      "edge_vs_power2_floor": 0.0146,
+      "sharp_prob": 0.5906,
+      "edge_vs_power2_floor": 0.0132,
       "books_used": [
         "novig",
         "sleeper"
@@ -31,44 +31,52 @@
   ],
   "vetoed": [
     {
-      "player": "Ismael Saibari",
-      "team": "Morocco",
-      "opponent": "Canada",
-      "stat": "shots",
-      "pp_line": 2.5,
-      "start_time": "2026-07-04T13:00:00.000-04:00",
+      "player": "Jude Bellingham",
+      "team": "England",
+      "opponent": "Mexico",
+      "stat": "shots_on_target",
+      "pp_line": 0.5,
+      "start_time": "2026-07-05T20:00:00.000-04:00",
       "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
     },
     {
-      "player": "Cyle Larin",
-      "team": "Canada",
-      "opponent": "Morocco",
-      "stat": "shots_on_target",
+      "player": "Bruno Fernandes",
+      "team": "Portugal",
+      "opponent": "Spain",
+      "stat": "shots",
+      "pp_line": 1.5,
+      "start_time": "2026-07-06T15:00:00.000-04:00",
+      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
+    },
+    {
+      "player": "Vitinha",
+      "team": "Portugal",
+      "opponent": "Spain",
+      "stat": "shots",
       "pp_line": 0.5,
-      "start_time": "2026-07-04T13:00:00.000-04:00",
+      "start_time": "2026-07-06T15:00:00.000-04:00",
+      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
+    },
+    {
+      "player": "J\u00e9r\u00e9my Doku",
+      "team": "Belgium",
+      "opponent": "United States",
+      "stat": "shots",
+      "pp_line": 1.5,
+      "start_time": "2026-07-06T20:00:00.000-04:00",
+      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
+    },
+    {
+      "player": "Youri Tielemans",
+      "team": "Belgium",
+      "opponent": "United States",
+      "stat": "shots",
+      "pp_line": 1.5,
+      "start_time": "2026-07-06T20:00:00.000-04:00",
       "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
     }
   ],
   "exhibition": [
-    {
-      "player": "Achraf Hakimi",
-      "team": "Morocco",
-      "opponent": "Canada",
-      "stat": "shots_on_target",
-      "pp_line": 0.5,
-      "start_time": "2026-07-04T13:00:00.000-04:00",
-      "side": "under",
-      "sharp_prob": 0.516,
-      "edge_vs_power2_floor": -0.0614,
-      "books_used": [
-        "novig",
-        "sleeper"
-      ],
-      "flags": [],
-      "fixture": "2026-07-04 Canada vs Morocco",
-      "label": "below threshold",
-      "case": null
-    },
     {
       "player": "Kylian Mbapp\u00e9",
       "team": "France",
@@ -76,9 +84,9 @@
       "stat": "shots_on_target",
       "pp_line": 2.5,
       "start_time": "2026-07-04T17:00:00.000-04:00",
-      "side": "under",
-      "sharp_prob": 0.5071,
-      "edge_vs_power2_floor": -0.0703,
+      "side": "over",
+      "sharp_prob": 0.5251,
+      "edge_vs_power2_floor": -0.0523,
       "books_used": [
         "novig",
         "sleeper"
@@ -96,8 +104,8 @@
       "pp_line": 1.5,
       "start_time": "2026-07-05T16:00:00.000-04:00",
       "side": "under",
-      "sharp_prob": 0.592,
-      "edge_vs_power2_floor": 0.0146,
+      "sharp_prob": 0.5906,
+      "edge_vs_power2_floor": 0.0132,
       "books_used": [
         "novig",
         "sleeper"
@@ -107,7 +115,26 @@
       "fixture": "2026-07-05 Brazil vs Norway",
       "label": "below threshold",
       "case": null
+    },
+    {
+      "player": "J\u00e9r\u00e9my Doku",
+      "team": "Belgium",
+      "opponent": "United States",
+      "stat": "shots_on_target",
+      "pp_line": 0.5,
+      "start_time": "2026-07-06T20:00:00.000-04:00",
+      "side": "under",
+      "sharp_prob": 0.523,
+      "edge_vs_power2_floor": -0.0544,
+      "books_used": [
+        "novig",
+        "sleeper"
+      ],
+      "flags": [],
+      "fixture": "2026-07-06 Belgium vs United States",
+      "label": "below threshold",
+      "case": null
     }
   ],
-  "unmatched_count": 61
+  "unmatched_count": 106
 }

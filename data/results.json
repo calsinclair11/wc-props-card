@@ -15,7 +15,45 @@
       "notes": "First live pipeline candidate. Two-book consensus (novig 59.5 / sleeper 58.9). Risks per roles/norway.md: Haaland takes Norway's penalties (a pen \u2248 1 SOT); game state \u2014 if Norway chase late, his volume rises. Pending lineup confirmation."
     }
   ],
-  "exhibition": [],
-  "vetoed": [],
-  "exported_at": "2026-07-04T06:16:13Z"
+  "exhibition": [
+    {
+      "date": "2026-07-04",
+      "match": "Canada vs Morocco",
+      "player": "Achraf Hakimi",
+      "stat": "Shots on target",
+      "line": "0.5",
+      "side": "Under",
+      "sharp": "51.6%",
+      "case_one_line": "\u2014 (pre-match runs didn't fire; no Layer 2\u20134 case written)",
+      "result": "win",
+      "notes": "0 SOT in a 3\u20130 win, 1 assist (the 50' cut-back). Settled retroactively from ESPN box score."
+    }
+  ],
+  "vetoed": [
+    {
+      "date": "2026-07-04",
+      "match": "Canada vs Morocco",
+      "player": "Ismael Saibari",
+      "stat": "Shots",
+      "line": "2.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "Over: no (1 shot)",
+      "notes": "Started, subbed off ~22' injured. Veto kept us out of an unquotable market \u2014 working as intended."
+    },
+    {
+      "date": "2026-07-04",
+      "match": "Canada vs Morocco",
+      "player": "Cyle Larin",
+      "stat": "Shots on target",
+      "line": "0.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "Void \u2014 did not start (63' sub)",
+      "notes": "Non-starter = void, not loss, per settlement rules."
+    }
+  ],
+  "exported_at": "2026-07-04T20:23:28Z"
 }
