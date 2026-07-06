@@ -89,6 +89,18 @@
       "notes": "T-90 run at 2026-07-06T22:27Z, ~93 min before kickoff. Full card: 0 qualifying plays, 0 shadow candidates for this fixture \u2014 devig sharp coverage is SOT-only this tournament and nothing cleared 57% except this exhibition line. Lineup check: official confirmed XI not yet posted at this pull; ESPN and FOX Sports predicted lineups (published same day) both list Trossard starting \u2014 treat as predicted, not confirmed, pending a closer-to-kickoff recheck."
     },
     {
+      "date": "2026-07-06",
+      "match": "Belgium vs United States",
+      "player": "Leandro Trossard",
+      "stat": "Shots on target",
+      "line": "0.5",
+      "side": "Over",
+      "sharp": "54.15%",
+      "case_one_line": "Re-pull at T-90 final, 2026-07-06T23:01Z (~59 min pre-kickoff): consensus unchanged (novig + sleeper), same line, no edge decay. Confirmed starter \u2014 official USA/Belgium XIs now posted (ESPN, FOX Sports, US Soccer): Trossard starts at LW. No yellow-card suspension risk. Card-wide: 0 qualifying plays, 0 shadow candidates for this fixture on this pull.",
+      "result": "pending",
+      "notes": "Final T-90 confirmation row \u2014 supersedes the \"predicted, not confirmed\" caveat on the row above; both rows stand for calibration. De Bruyne's and Doku's shots/SOT lines dropped off the PrizePicks board entirely on this pull; both confirmed starting anyway, reinforcing that market-coverage gaps here aren't lineup signals."
+    },
+    {
       "date": "2026-07-07",
       "match": "Switzerland vs Colombia",
       "player": "Breel Embolo",
@@ -171,8 +183,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z."
+      "would_it_have_won": "Doku confirmed starting",
+      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z. Line dropped off the PrizePicks board entirely by the T-90 final re-pull (23:01Z) \u2014 Doku confirmed starting regardless, market-coverage gap not a lineup signal."
     },
     {
       "date": "2026-07-06",
@@ -184,7 +196,7 @@
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
       "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z."
+      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z, and again at the T-90 final re-pull (23:01Z). Alex Freeman confirmed starting (USA RB)."
     },
     {
       "date": "2026-07-06",
@@ -195,8 +207,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-90 run 2026-07-06T22:27Z, ~93 min before kickoff."
+      "would_it_have_won": "De Bruyne confirmed starting",
+      "notes": "T-90 run 2026-07-06T22:27Z, ~93 min before kickoff. Line dropped off the PrizePicks board entirely by the T-90 final re-pull (23:01Z) \u2014 De Bruyne confirmed starting (captain, CM) regardless, market-coverage gap not a lineup signal."
     },
     {
       "date": "2026-07-07",
@@ -271,5 +283,5 @@
       "notes": "T-24 run 2026-07-06T18:22Z \u2014 outside the ~36h focus window but logged per divergence script output."
     }
   ],
-  "exported_at": "2026-07-06T23:01:05Z"
+  "exported_at": "2026-07-06T23:09:53Z"
 }

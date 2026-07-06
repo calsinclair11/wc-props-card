@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T22:44:57Z",
-  "checkpoint": "auto",
+  "generated_at": "2026-07-06T23:01:40Z",
+  "checkpoint": "T-90",
   "status": "ok",
   "config": {
     "breakeven_floor": 0.5774,
@@ -75,8 +75,9 @@
       "flags": [],
       "fixture": "2026-07-06 Belgium vs United States",
       "label": "below threshold",
-      "case": "Two-book consensus 54.2% on the 0.5 line \u2014 Belgium's highest-floor SOT play on the board; predicted starter, reported fit, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament. (Line briefly dropped off the board earlier this T-24 window and has since returned \u2014 market-coverage gap, not a lineup signal.) T-90 lineup check: official confirmed XI not yet posted as of this pull (~93 min pre-kickoff); ESPN and FOX Sports predicted lineups (published today) independently list Trossard in Belgium's starting XI \u2014 treat as predicted, not confirmed, until official lineup drops closer to kickoff.",
-      "layer_notes": "Layer 2: inverted-LW-cuts-inside role transfers cleanly from Arsenal; no set-piece bump (De Bruyne owns dead balls). Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: no heat/altitude factor (Seattle, evening kickoff); Belgium expected to control ball vs. lower-seeded USA, mild lean toward volume holding up. Lineup status (T-90): not yet officially confirmed \u2014 outlets report official XIs typically post ~60 min before kickoff, later than this checkpoint; re-verify before treating as final."
+      "case": "Two-book consensus 54.2% on the 0.5 line \u2014 Belgium's highest-floor SOT play on the board; confirmed starter, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament. T-90 lineup check (2026-07-06T23:01Z, ~59 min pre-kickoff): official USA and Belgium starting XIs confirmed via ESPN/FOX Sports/US Soccer \u2014 Trossard starts at LW. De Bruyne and Doku also confirmed starting despite both dropping off the PrizePicks board this run \u2014 confirms that dropoff was a market-coverage gap, not a lineup signal. No yellow-card suspension risk for Trossard (clean card, R16 knockout).",
+      "layer_notes": "Layer 2: inverted-LW-cuts-inside role transfers cleanly from Arsenal; no set-piece bump (De Bruyne owns dead balls). Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: no heat/altitude factor (Seattle, evening kickoff); Belgium expected to control ball vs. lower-seeded USA, mild lean toward volume holding up. Lineup status (T-90 final): CONFIRMED starting via official/press lineups \u2014 no bench kill.",
+      "play_status": "confirmed starting"
     },
     {
       "player": "Breel Embolo",
@@ -99,5 +100,5 @@
       "layer_notes": "Layer 2: central-striker role transfers cleanly from club profile; Xhaka is primary penalty taker, Embolo backup only \u2014 no bump. Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: Switzerland's compact transition-based style caps team shot volume vs. a possession-heavy Colombia side \u2014 mild lean toward the under on teammates' volume props, doesn't touch Embolo's focal-scorer role."
     }
   ],
-  "unmatched_count": 71
+  "unmatched_count": 73
 }
