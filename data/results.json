@@ -140,30 +140,6 @@
     },
     {
       "date": "2026-07-06",
-      "match": "Portugal vs Spain",
-      "player": "Bruno Fernandes",
-      "stat": "Shots",
-      "line": "1.5",
-      "side": "\u2014",
-      "sharp": "\u2014",
-      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z."
-    },
-    {
-      "date": "2026-07-06",
-      "match": "Portugal vs Spain",
-      "player": "Vitinha",
-      "stat": "Shots",
-      "line": "0.5",
-      "side": "\u2014",
-      "sharp": "\u2014",
-      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z."
-    },
-    {
-      "date": "2026-07-06",
       "match": "Belgium vs United States",
       "player": "J\u00e9r\u00e9my Doku",
       "stat": "Shots",
@@ -259,5 +235,5 @@
       "notes": "T-24 run 2026-07-06T18:22Z \u2014 outside the ~36h focus window but logged per divergence script output."
     }
   ],
-  "exported_at": "2026-07-06T21:08:19Z"
+  "exported_at": "2026-07-06T21:10:36Z"
 }
