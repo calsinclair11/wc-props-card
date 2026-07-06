@@ -73,8 +73,8 @@
       "side": "Over",
       "sharp": "51.2%",
       "case_one_line": "Two-book consensus 51.2% \u2014 new highest-edge sub-threshold SOT candidate for this fixture now that Trossard's line dropped off the board (market-coverage gap, not a lineup signal \u2014 Trossard remains a confirmed starter). Doku confirmed starter, direct/high-volume shot profile, no sub-risk flag.",
-      "result": "pending",
-      "notes": "T-24 run at 2026-07-06T21:54Z, ~2h before kickoff. Ref Adham Makhadmeh confirmed; fouls not playable this tournament. Trossard's line returned to the board by the T-90 pull, reclaiming this fixture's exhibition slot (see row below) \u2014 this row still stands on its own for calibration if Doku plays."
+      "result": "void \u2014 did not start",
+      "notes": "BENCHED (official team sheet): Belgium rotated Doku, De Bruyne AND Lukaku to the bench. Key lesson: PrizePicks pulled Doku's and De Bruyne's lines ~1h+ BEFORE the official lineup dropped \u2014 informed line removal preceded public team news."
     },
     {
       "date": "2026-07-06",
@@ -98,7 +98,7 @@
       "sharp": "54.15%",
       "case_one_line": "Re-pull at T-90 final, 2026-07-06T23:01Z (~59 min pre-kickoff): consensus unchanged (novig + sleeper), same line, no edge decay. Confirmed starter \u2014 official USA/Belgium XIs now posted (ESPN, FOX Sports, US Soccer): Trossard starts at LW. No yellow-card suspension risk. Card-wide: 0 qualifying plays, 0 shadow candidates for this fixture on this pull.",
       "result": "pending",
-      "notes": "Final T-90 confirmation row \u2014 supersedes the \"predicted, not confirmed\" caveat on the row above; both rows stand for calibration. De Bruyne's and Doku's shots/SOT lines dropped off the PrizePicks board entirely on this pull; both confirmed starting anyway, reinforcing that market-coverage gaps here aren't lineup signals."
+      "notes": "Final T-90 confirmation row \u2014 supersedes the \"predicted, not confirmed\" caveat on the row above; both rows stand for calibration. De Bruyne's and Doku's shots/SOT lines dropped off the PrizePicks board entirely on this pull. CORRECTION (post-team-sheet): the run's original note said both were 'confirmed starting anyway' based on predicted XIs \u2014 in fact BOTH were benched. The line removals WERE the lineup signal. Predicted lineups are not confirmation; only the official team sheet is."
     },
     {
       "date": "2026-07-07",
@@ -283,5 +283,5 @@
       "notes": "T-24 run 2026-07-06T18:22Z \u2014 outside the ~36h focus window but logged per divergence script output."
     }
   ],
-  "exported_at": "2026-07-06T23:15:03Z"
+  "exported_at": "2026-07-06T23:21:45Z"
 }
