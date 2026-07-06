@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T21:54:26Z",
-  "checkpoint": "T-24",
+  "generated_at": "2026-07-06T22:14:51Z",
+  "checkpoint": "auto",
   "status": "ok",
   "config": {
     "breakeven_floor": 0.5774,
@@ -77,15 +77,15 @@
   ],
   "exhibition": [
     {
-      "player": "J\u00e9r\u00e9my Doku",
+      "player": "Leandro Trossard",
       "team": "Belgium",
       "opponent": "United States",
       "stat": "shots_on_target",
       "pp_line": 0.5,
       "start_time": "2026-07-06T20:00:00.000-04:00",
       "side": "over",
-      "sharp_prob": 0.5116,
-      "edge_vs_power2_floor": -0.0658,
+      "sharp_prob": 0.5415,
+      "edge_vs_power2_floor": -0.0359,
       "books_used": [
         "novig",
         "sleeper"
@@ -93,8 +93,7 @@
       "flags": [],
       "fixture": "2026-07-06 Belgium vs United States",
       "label": "below threshold",
-      "case": "Two-book consensus 51.2% on the 0.5 SOT line — Belgium's new highest-edge sub-threshold SOT candidate now that Trossard's SOT line has dropped off the board (Trossard remains a confirmed starter per pre-match reporting, so this is a market-coverage gap, not a lineup signal). Doku confirmed starter, direct/high-volume shot profile, no sub-risk flag. Ref Makhadmeh confirmed, fouls not playable this tournament.",
-      "layer_notes": "Layer 2: Doku's direct-dribbler, high-shot-attempt profile is stable club-to-NT (Man City winger, same wide-explosive role); no set-piece bump (De Bruyne owns dead balls). Layer 3: no sub-risk pattern found this tournament for Doku; confirmed starter. Layer 4: Belgium favored to control possession vs. lower-seeded USA, supporting front-three shot volume; evening Seattle kickoff — no heat/altitude lean."
+      "case": null
     },
     {
       "player": "Breel Embolo",
