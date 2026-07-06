@@ -51,6 +51,30 @@
       "case_one_line": "Confirmed starter as lone striker vs a 5-4-1 low block \u2014 volume certain, clean looks not; 2.5 is a demanding SOT line even for him.",
       "result": "win",
       "notes": "4 SOT incl. the 69' penalty winner + two stoppage-time efforts saved. France 1\u20130."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Belgium vs United States",
+      "player": "Leandro Trossard",
+      "stat": "Shots on target",
+      "line": "0.5",
+      "side": "Over",
+      "sharp": "54.5%",
+      "case_one_line": "Two-book consensus 54.5%; predicted starter, reported fit, role transfers cleanly from Arsenal, no set-piece bump, possession edge vs. USA supports volume.",
+      "result": "pending",
+      "notes": "T-24 run at 2026-07-06T18:22Z, ~5.6h before kickoff. Ref Adham Makhadmeh confirmed; fouls not playable this tournament."
+    },
+    {
+      "date": "2026-07-07",
+      "match": "Switzerland vs Colombia",
+      "player": "Breel Embolo",
+      "stat": "Shots on target",
+      "line": "0.5",
+      "side": "Over",
+      "sharp": "53.5%",
+      "case_one_line": "Two-book consensus 53.5%; Switzerland's focal point/leading scorer, predicted starter, no injury concern; backup (not primary) penalty taker so no set-piece bump.",
+      "result": "pending",
+      "notes": "T-24 run at 2026-07-06T18:22Z. Ref Ivan Arcides Barton Cisneros confirmed; fouls not playable this tournament."
     }
   ],
   "vetoed": [
@@ -89,7 +113,127 @@
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
       "would_it_have_won": "Over: yes (\u22652 SOT \u2014 brace)",
       "notes": "Veto killed a would-be winner IF we'd have taken the over \u2014 but with one book there was no basis to pick a side. Logged retroactively (weekend runs didn't fire)."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Portugal vs Spain",
+      "player": "Bruno Fernandes",
+      "stat": "Shots",
+      "line": "1.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Portugal vs Spain",
+      "player": "Vitinha",
+      "stat": "Shots",
+      "line": "0.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Belgium vs United States",
+      "player": "J\u00e9r\u00e9my Doku",
+      "stat": "Shots",
+      "line": "1.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Belgium vs United States",
+      "player": "Alex Freeman",
+      "stat": "Shots",
+      "line": "0.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z."
+    },
+    {
+      "date": "2026-07-07",
+      "match": "Argentina vs Egypt",
+      "player": "Lionel Messi",
+      "stat": "Shots on target",
+      "line": "2.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z. Also note: separate 5.0 shots line for Messi failed line-match (books post 4.5) \u2014 no veto row needed, just unmatched."
+    },
+    {
+      "date": "2026-07-07",
+      "match": "Argentina vs Egypt",
+      "player": "Thiago Almada",
+      "stat": "Shots",
+      "line": "1.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z."
+    },
+    {
+      "date": "2026-07-07",
+      "match": "Argentina vs Egypt",
+      "player": "Enzo Fern\u00e1ndez",
+      "stat": "Shots",
+      "line": "1.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z."
+    },
+    {
+      "date": "2026-07-07",
+      "match": "Switzerland vs Colombia",
+      "player": "Dan Ndoye",
+      "stat": "Shots on target",
+      "line": "0.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z."
+    },
+    {
+      "date": "2026-07-07",
+      "match": "Switzerland vs Colombia",
+      "player": "Davinson S\u00e1nchez",
+      "stat": "Shots",
+      "line": "0.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z."
+    },
+    {
+      "date": "2026-07-09",
+      "match": "France vs Morocco",
+      "player": "Kylian Mbapp\u00e9",
+      "stat": "Shots on target",
+      "line": "2.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-24 run 2026-07-06T18:22Z \u2014 outside the ~36h focus window but logged per divergence script output."
     }
   ],
-  "exported_at": "2026-07-06T18:14:01Z"
+  "exported_at": "2026-07-06T18:44:07Z"
 }
