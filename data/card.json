@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T17:28:10Z",
-  "checkpoint": "T-90 (Portugal vs Spain)",
+  "generated_at": "2026-07-06T17:52:15Z",
+  "checkpoint": "auto",
   "status": "ok",
   "config": {
     "breakeven_floor": 0.5774,
@@ -120,8 +120,7 @@
       "flags": [],
       "fixture": "2026-07-06 Belgium vs United States",
       "label": "below threshold",
-      "case": "Two-book consensus 54.5% on the 0.5 line \u2014 Belgium's highest-floor SOT play on the board; lineup unconfirmed until ~15:30 PDT.",
-      "play_status": "pending lineup confirmation"
+      "case": "Two-book consensus 54.5% on the 0.5 line \u2014 Belgium's highest-floor SOT play on the board; lineup unconfirmed until ~15:30 PDT."
     },
     {
       "player": "Breel Embolo",
@@ -143,5 +142,5 @@
       "case": null
     }
   ],
-  "unmatched_count": 93
+  "unmatched_count": 92
 }
