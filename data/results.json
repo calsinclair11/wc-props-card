@@ -123,6 +123,30 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "Over: no (1 shot)",
+      "notes": "Started, 1 shot (off target, the volley wide). Spain won 0\u20131 at 90+1'."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Portugal vs Spain",
+      "player": "Vitinha",
+      "stat": "Shots",
+      "line": "0.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "Over: yes (1 shot)",
+      "notes": "Started, 1 shot, subbed 83'. Second one-book prop that would have won on the over \u2014 pattern worth watching, not yet a verdict."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Portugal vs Spain",
+      "player": "Bruno Fernandes",
+      "stat": "Shots",
+      "line": "1.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
       "would_it_have_won": "pending",
       "notes": "T-24 run 2026-07-06T18:22Z."
     },
@@ -235,5 +259,5 @@
       "notes": "T-24 run 2026-07-06T18:22Z \u2014 outside the ~36h focus window but logged per divergence script output."
     }
   ],
-  "exported_at": "2026-07-06T21:06:25Z"
+  "exported_at": "2026-07-06T21:08:19Z"
 }
