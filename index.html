@@ -45,6 +45,21 @@
   .exh-label { font-size: 10.5px; font-weight: 800; letter-spacing: .12em;
                color: var(--amber); text-transform: uppercase; }
 
+  .tm { border: 1.5px solid #b48cff; background: #181425; border-radius: 12px;
+        padding: 12px 14px; margin-bottom: 10px; }
+  .tm-banner { font-size: 11px; font-weight: 800; letter-spacing: .1em;
+               color: #b48cff; text-transform: uppercase; margin-bottom: 8px; }
+  .tm .tierchip { display: inline-block; min-width: 20px; text-align: center;
+        font-size: 11px; font-weight: 800; border-radius: 6px; padding: 1px 5px;
+        background: #2a2140; color: #b48cff; margin-right: 6px; }
+  .tm .legline { display: flex; align-items: baseline; gap: 8px; padding: 4px 0;
+        border-bottom: 1px solid #262038; font-size: 14px; }
+  .tm .legline:last-child { border-bottom: 0; }
+  .tm .p { font-weight: 750; min-width: 52px; color: #d9c9ff; }
+  .tm .ev { font-size: 13px; margin-top: 8px; }
+  .tm .ev b.neg { color: var(--red); } .tm .ev b.pos { color: var(--green); }
+  .tm .note { color: var(--dim); font-size: 12px; }
+
   .veto { background: var(--panel); border-left: 3px solid var(--red);
           border-radius: 8px; padding: 8px 12px; margin-bottom: 8px; font-size: 13.5px; }
   .veto .why { color: var(--red); font-size: 12.5px; }
@@ -93,6 +108,16 @@
 
 <h2>Shadow candidates on this card (57–59.9%)</h2>
 <div id="shadow-card"></div>
+
+<h2>Tournament mode — best available (off-engine)</h2>
+<div id="tm-section" style="display:none">
+  <div class="tm">
+    <div class="tm-banner">Ranked by probability, not edge · EV printed below · separate pot, never engine data</div>
+    <div id="tm-legs"></div>
+    <div id="tm-parlays"></div>
+  </div>
+</div>
+<div class="empty-note" id="tm-empty">no tournament-mode card generated</div>
 
 <h2>Vetoed candidates</h2>
 <div id="vetoed"></div>
@@ -243,6 +268,24 @@ async function load() {
   document.getElementById("vetoed").innerHTML = (card.vetoed || []).length
     ? card.vetoed.map(v => `<div class="veto"><b>${esc(v.player)}</b> ${prettyStat(v.stat)} ${esc(v.pp_line)} — ${esc(v.team)} vs ${esc(v.opponent)}<div class="why">✕ ${esc(v.veto)}</div></div>`).join("")
     : `<div class="empty-note">nothing vetoed on this run</div>`;
+
+  // Tournament mode card is optional — section stays hidden without it.
+  try {
+    const tm = await fetch("data/tournament_card.json").then(r => { if (!r.ok) throw 0; return r.json(); });
+    document.getElementById("tm-section").style.display = "block";
+    document.getElementById("tm-empty").style.display = "none";
+    document.getElementById("tm-legs").innerHTML = (tm.legs_ranked || []).slice(0, 8).map(l =>
+      `<div class="legline"><span class="tierchip">${esc(l.tier)}</span>
+       <span class="p">${(l.p * 100).toFixed(1)}%</span>
+       <span><b>${esc(l.player)}</b> ${esc(l.side.toUpperCase())} ${esc(l.line)} ${prettyStat(l.stat)}
+       <span class="note">— ${esc(l.team)} vs ${esc(l.opponent)} · ${esc(l.note)}</span></span></div>`).join("");
+    document.getElementById("tm-parlays").innerHTML = Object.entries(tm.parlays || {}).map(([name, pl]) => {
+      const legs = pl.legs.map(l => `${esc(l.player)} ${esc(l.side)} ${esc(l.line)}`).join(" + ");
+      const evs = Object.entries(pl.ev_per_dollar).map(([k, v]) =>
+        `${k} <b class="${v >= 0 ? "pos" : "neg"}">${(v * 100).toFixed(1)}%</b>`).join(" · ");
+      return `<div class="ev"><b>${name}</b>: ${legs}<br>EV per $1: ${evs}</div>`;
+    }).join("");
+  } catch (e) { /* no tournament card — section stays hidden */ }
 
   const shadowRows = results.shadow || [];
   recordLine(document.getElementById("shadow-record"), shadowRows, "hypothetical_outcome", "Shadow record");

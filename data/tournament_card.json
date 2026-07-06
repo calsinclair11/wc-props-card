@@ -1,0 +1,323 @@
+{
+  "generated_at": "2026-07-06T22:10:28Z",
+  "mode": "tournament \u2014 best available, NOT the engine",
+  "disclaimer": "Legs are ranked by estimated probability, not edge. Expected value is printed per structure; negative numbers are the price of playing. Lineup confirmation still required.",
+  "legs_ranked": [
+    {
+      "player": "Lionel Messi",
+      "team": "Argentina",
+      "opponent": "Egypt",
+      "stat": "shots_on_target",
+      "line": 2.5,
+      "side": "under",
+      "p": 0.5652,
+      "tier": "B",
+      "books": [
+        "novig"
+      ],
+      "note": "novig only at this line",
+      "start_time": "2026-07-07T12:00:00.000-04:00",
+      "whole_line": false,
+      "case": null
+    },
+    {
+      "player": "J\u00e9r\u00e9my Doku",
+      "team": "Belgium",
+      "opponent": "United States",
+      "stat": "shots_on_target",
+      "line": 0.5,
+      "side": "over",
+      "p": 0.5595,
+      "tier": "B",
+      "books": [
+        "novig"
+      ],
+      "note": "books disagree by 9.6pt \u2014 using novig alone",
+      "start_time": "2026-07-06T20:00:00.000-04:00",
+      "whole_line": false,
+      "case": null
+    },
+    {
+      "player": "Malik Tillman",
+      "team": "United States",
+      "opponent": "Belgium",
+      "stat": "shots_on_target",
+      "line": 0.5,
+      "side": "over",
+      "p": 0.5556,
+      "tier": "B",
+      "books": [
+        "novig"
+      ],
+      "note": "books disagree by 10.4pt \u2014 using novig alone",
+      "start_time": "2026-07-06T20:00:00.000-04:00",
+      "whole_line": false,
+      "case": null
+    },
+    {
+      "player": "Breel Embolo",
+      "team": "Switzerland",
+      "opponent": "Colombia",
+      "stat": "shots_on_target",
+      "line": 0.5,
+      "side": "over",
+      "p": 0.5345,
+      "tier": "A",
+      "books": [
+        "novig",
+        "sleeper"
+      ],
+      "note": "consensus of 2 books, dispersion 0.9pt",
+      "start_time": "2026-07-07T16:00:00.000-04:00",
+      "whole_line": false,
+      "case": null
+    },
+    {
+      "player": "Dan Ndoye",
+      "team": "Switzerland",
+      "opponent": "Colombia",
+      "stat": "shots_on_target",
+      "line": 0.5,
+      "side": "under",
+      "p": 0.5261,
+      "tier": "B",
+      "books": [
+        "novig"
+      ],
+      "note": "novig only at this line",
+      "start_time": "2026-07-07T16:00:00.000-04:00",
+      "whole_line": false,
+      "case": null
+    },
+    {
+      "player": "Leandro Trossard",
+      "team": "Belgium",
+      "opponent": "United States",
+      "stat": "shots_on_target",
+      "line": 0.5,
+      "side": "over",
+      "p": 0.5092,
+      "tier": "A",
+      "books": [
+        "novig",
+        "sleeper"
+      ],
+      "note": "consensus of 2 books, dispersion 0.1pt",
+      "start_time": "2026-07-06T20:00:00.000-04:00",
+      "whole_line": false,
+      "case": null
+    }
+  ],
+  "informational": [
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "opponent": "United States",
+      "stat": "shots",
+      "line": 2.5,
+      "side": "under",
+      "p": 0.5144,
+      "tier": "D",
+      "books": [
+        "sleeper"
+      ],
+      "note": "sleeper only \u2014 DFS book, informational, never a leg",
+      "start_time": "2026-07-06T20:00:00.000-04:00",
+      "whole_line": false,
+      "case": null,
+      "excluded": "tier D"
+    },
+    {
+      "player": "J\u00e9r\u00e9my Doku",
+      "team": "Belgium",
+      "opponent": "United States",
+      "stat": "shots",
+      "line": 1.5,
+      "side": "over",
+      "p": 0.5241,
+      "tier": "D",
+      "books": [
+        "sleeper"
+      ],
+      "note": "sleeper only \u2014 DFS book, informational, never a leg",
+      "start_time": "2026-07-06T20:00:00.000-04:00",
+      "whole_line": false,
+      "case": null,
+      "excluded": "tier D"
+    },
+    {
+      "player": "Alex Freeman",
+      "team": "United States",
+      "opponent": "Belgium",
+      "stat": "shots",
+      "line": 0.5,
+      "side": "under",
+      "p": 0.5176,
+      "tier": "D",
+      "books": [
+        "sleeper"
+      ],
+      "note": "sleeper only \u2014 DFS book, informational, never a leg",
+      "start_time": "2026-07-06T20:00:00.000-04:00",
+      "whole_line": false,
+      "case": null,
+      "excluded": "tier D"
+    },
+    {
+      "player": "Enzo Fern\u00e1ndez",
+      "team": "Argentina",
+      "opponent": "Egypt",
+      "stat": "shots",
+      "line": 1.5,
+      "side": "under",
+      "p": 0.5326,
+      "tier": "D",
+      "books": [
+        "sleeper"
+      ],
+      "note": "sleeper only \u2014 DFS book, informational, never a leg",
+      "start_time": "2026-07-07T12:00:00.000-04:00",
+      "whole_line": false,
+      "case": null,
+      "excluded": "tier D"
+    },
+    {
+      "player": "Davinson S\u00e1nchez",
+      "team": "Colombia",
+      "opponent": "Switzerland",
+      "stat": "shots",
+      "line": 0.5,
+      "side": "under",
+      "p": 0.562,
+      "tier": "D",
+      "books": [
+        "sleeper"
+      ],
+      "note": "sleeper only \u2014 DFS book, informational, never a leg",
+      "start_time": "2026-07-07T16:00:00.000-04:00",
+      "whole_line": false,
+      "case": null,
+      "excluded": "tier D"
+    },
+    {
+      "player": "Kylian Mbapp\u00e9",
+      "team": "France",
+      "opponent": "Morocco",
+      "stat": "shots_on_target",
+      "line": 2,
+      "side": "under",
+      "p": 0.54,
+      "tier": "B-",
+      "books": [
+        "novig"
+      ],
+      "note": "interpolated from novig ladder [1.5, 2.5]",
+      "start_time": "2026-07-09T16:00:00.000-04:00",
+      "whole_line": true,
+      "case": null,
+      "excluded": "whole-number line (push risk)"
+    }
+  ],
+  "parlays": {
+    "best_2": {
+      "legs": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "opponent": "Egypt",
+          "stat": "shots_on_target",
+          "line": 2.5,
+          "side": "under",
+          "p": 0.5652,
+          "tier": "B",
+          "books": [
+            "novig"
+          ],
+          "note": "novig only at this line",
+          "start_time": "2026-07-07T12:00:00.000-04:00",
+          "whole_line": false,
+          "case": null
+        },
+        {
+          "player": "J\u00e9r\u00e9my Doku",
+          "team": "Belgium",
+          "opponent": "United States",
+          "stat": "shots_on_target",
+          "line": 0.5,
+          "side": "over",
+          "p": 0.5595,
+          "tier": "B",
+          "books": [
+            "novig"
+          ],
+          "note": "books disagree by 9.6pt \u2014 using novig alone",
+          "start_time": "2026-07-06T20:00:00.000-04:00",
+          "whole_line": false,
+          "case": null
+        }
+      ],
+      "ev_per_dollar": {
+        "power2": -0.05131179999999991
+      }
+    },
+    "best_3": {
+      "legs": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "opponent": "Egypt",
+          "stat": "shots_on_target",
+          "line": 2.5,
+          "side": "under",
+          "p": 0.5652,
+          "tier": "B",
+          "books": [
+            "novig"
+          ],
+          "note": "novig only at this line",
+          "start_time": "2026-07-07T12:00:00.000-04:00",
+          "whole_line": false,
+          "case": null
+        },
+        {
+          "player": "J\u00e9r\u00e9my Doku",
+          "team": "Belgium",
+          "opponent": "United States",
+          "stat": "shots_on_target",
+          "line": 0.5,
+          "side": "over",
+          "p": 0.5595,
+          "tier": "B",
+          "books": [
+            "novig"
+          ],
+          "note": "books disagree by 9.6pt \u2014 using novig alone",
+          "start_time": "2026-07-06T20:00:00.000-04:00",
+          "whole_line": false,
+          "case": null
+        },
+        {
+          "player": "Malik Tillman",
+          "team": "United States",
+          "opponent": "Belgium",
+          "stat": "shots_on_target",
+          "line": 0.5,
+          "side": "over",
+          "p": 0.5556,
+          "tier": "B",
+          "books": [
+            "novig"
+          ],
+          "note": "books disagree by 10.4pt \u2014 using novig alone",
+          "start_time": "2026-07-06T20:00:00.000-04:00",
+          "whole_line": false,
+          "case": null
+        }
+      ],
+      "ev_per_dollar": {
+        "power3": -0.12151472680000008,
+        "flex3": -0.08715468195999998
+      }
+    }
+  }
+}
