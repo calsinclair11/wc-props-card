@@ -11,8 +11,8 @@
       "sharp": "59.2%",
       "books": "novig, sleeper",
       "status": "Shadow \u2014 below 60% threshold",
-      "hypothetical_outcome": "pending",
-      "notes": "First live pipeline candidate. Two-book consensus (novig 59.5 / sleeper 58.9). Risks per roles/norway.md: Haaland takes Norway's penalties (a pen \u2248 1 SOT); game state \u2014 if Norway chase late, his volume rises. Pending lineup confirmation."
+      "hypothetical_outcome": "loss",
+      "notes": "3 SOT on 4 shots \u2014 brace at 79' and 90' in the 2\u20131 upset. Lost to exactly the flagged risk: late game-state volume (not the penalty risk). Settled from box score."
     }
   ],
   "exhibition": [
@@ -29,6 +29,18 @@
       "notes": "0 SOT in a 3\u20130 win, 1 assist (the 50' cut-back). Settled retroactively from ESPN box score."
     },
     {
+      "date": "2026-07-05",
+      "match": "Brazil vs Norway",
+      "player": "Erling Haaland",
+      "stat": "Shots on target",
+      "line": "1.5",
+      "side": "Under",
+      "sharp": "59.1%",
+      "case_one_line": "Same play as the shadow row (best below-threshold SOT for the fixture); risks per roles/norway.md.",
+      "result": "loss",
+      "notes": "3 SOT \u2014 late brace. Counted once here and once in shadow; ledgers never merge."
+    },
+    {
       "date": "2026-07-04",
       "match": "France vs Paraguay",
       "player": "Kylian Mbapp\u00e9",
@@ -37,8 +49,8 @@
       "side": "Over",
       "sharp": "52.5%",
       "case_one_line": "Confirmed starter as lone striker vs a 5-4-1 low block \u2014 volume certain, clean looks not; 2.5 is a demanding SOT line even for him.",
-      "result": "pending",
-      "notes": "Late manual run at T-35 (scheduled T-90 didn't fire). Line flipped from under 2.5 overnight."
+      "result": "win",
+      "notes": "4 SOT incl. the 69' penalty winner + two stoppage-time efforts saved. France 1\u20130."
     }
   ],
   "vetoed": [
@@ -65,7 +77,19 @@
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
       "would_it_have_won": "Void \u2014 did not start (63' sub)",
       "notes": "Non-starter = void, not loss, per settlement rules."
+    },
+    {
+      "date": "2026-07-05",
+      "match": "Mexico vs England",
+      "player": "Jude Bellingham",
+      "stat": "Shots on target",
+      "line": "0.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "Over: yes (\u22652 SOT \u2014 brace)",
+      "notes": "Veto killed a would-be winner IF we'd have taken the over \u2014 but with one book there was no basis to pick a side. Logged retroactively (weekend runs didn't fire)."
     }
   ],
-  "exported_at": "2026-07-04T20:27:03Z"
+  "exported_at": "2026-07-06T17:31:29Z"
 }
