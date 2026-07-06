@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T23:01:40Z",
-  "checkpoint": "T-90",
+  "generated_at": "2026-07-06T23:15:03Z",
+  "checkpoint": "auto",
   "status": "ok",
   "config": {
     "breakeven_floor": 0.5774,
@@ -66,8 +66,8 @@
       "pp_line": 0.5,
       "start_time": "2026-07-06T20:00:00.000-04:00",
       "side": "over",
-      "sharp_prob": 0.5415,
-      "edge_vs_power2_floor": -0.0359,
+      "sharp_prob": 0.5444,
+      "edge_vs_power2_floor": -0.033,
       "books_used": [
         "novig",
         "sleeper"
@@ -100,5 +100,5 @@
       "layer_notes": "Layer 2: central-striker role transfers cleanly from club profile; Xhaka is primary penalty taker, Embolo backup only \u2014 no bump. Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: Switzerland's compact transition-based style caps team shot volume vs. a possession-heavy Colombia side \u2014 mild lean toward the under on teammates' volume props, doesn't touch Embolo's focal-scorer role."
     }
   ],
-  "unmatched_count": 73
+  "unmatched_count": 76
 }
