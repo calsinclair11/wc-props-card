@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T21:14:39Z",
+  "generated_at": "2026-07-06T21:44:44Z",
   "checkpoint": "auto",
   "status": "ok",
   "config": {
@@ -77,15 +77,15 @@
   ],
   "exhibition": [
     {
-      "player": "Leandro Trossard",
+      "player": "J\u00e9r\u00e9my Doku",
       "team": "Belgium",
       "opponent": "United States",
       "stat": "shots_on_target",
       "pp_line": 0.5,
       "start_time": "2026-07-06T20:00:00.000-04:00",
       "side": "over",
-      "sharp_prob": 0.5402,
-      "edge_vs_power2_floor": -0.0372,
+      "sharp_prob": 0.5116,
+      "edge_vs_power2_floor": -0.0658,
       "books_used": [
         "novig",
         "sleeper"
@@ -93,8 +93,7 @@
       "flags": [],
       "fixture": "2026-07-06 Belgium vs United States",
       "label": "below threshold",
-      "case": "Two-book consensus 54.5% on the 0.5 line \u2014 Belgium's highest-floor SOT play on the board; predicted starter, reported fit, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament.",
-      "layer_notes": "Layer 2: inverted-LW-cuts-inside role transfers cleanly from Arsenal; no set-piece bump (De Bruyne owns dead balls). Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: no heat/altitude factor (Seattle); Belgium expected to control ball vs. lower-seeded USA, mild lean toward volume holding up."
+      "case": null
     },
     {
       "player": "Breel Embolo",
