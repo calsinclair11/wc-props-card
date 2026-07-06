@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T22:14:51Z",
-  "checkpoint": "auto",
+  "generated_at": "2026-07-06T22:27:00Z",
+  "checkpoint": "T-90",
   "status": "ok",
   "config": {
     "breakeven_floor": 0.5774,
@@ -93,7 +93,8 @@
       "flags": [],
       "fixture": "2026-07-06 Belgium vs United States",
       "label": "below threshold",
-      "case": null
+      "case": "Two-book consensus 54.2% on the 0.5 line — Belgium's highest-floor SOT play on the board; predicted starter, reported fit, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament. (Line briefly dropped off the board earlier this T-24 window and has since returned — market-coverage gap, not a lineup signal.)",
+      "layer_notes": "Layer 2: inverted-LW-cuts-inside role transfers cleanly from Arsenal; no set-piece bump (De Bruyne owns dead balls). Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: no heat/altitude factor (Seattle, evening kickoff); Belgium expected to control ball vs. lower-seeded USA, mild lean toward volume holding up."
     },
     {
       "player": "Breel Embolo",
