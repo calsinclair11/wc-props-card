@@ -93,8 +93,8 @@
       "flags": [],
       "fixture": "2026-07-06 Belgium vs United States",
       "label": "below threshold",
-      "case": "Two-book consensus 54.2% on the 0.5 line — Belgium's highest-floor SOT play on the board; predicted starter, reported fit, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament. (Line briefly dropped off the board earlier this T-24 window and has since returned — market-coverage gap, not a lineup signal.)",
-      "layer_notes": "Layer 2: inverted-LW-cuts-inside role transfers cleanly from Arsenal; no set-piece bump (De Bruyne owns dead balls). Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: no heat/altitude factor (Seattle, evening kickoff); Belgium expected to control ball vs. lower-seeded USA, mild lean toward volume holding up."
+      "case": "Two-book consensus 54.2% on the 0.5 line — Belgium's highest-floor SOT play on the board; predicted starter, reported fit, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament. (Line briefly dropped off the board earlier this T-24 window and has since returned — market-coverage gap, not a lineup signal.) T-90 lineup check: official confirmed XI not yet posted as of this pull (~93 min pre-kickoff); ESPN and FOX Sports predicted lineups (published today) independently list Trossard in Belgium's starting XI — treat as predicted, not confirmed, until official lineup drops closer to kickoff.",
+      "layer_notes": "Layer 2: inverted-LW-cuts-inside role transfers cleanly from Arsenal; no set-piece bump (De Bruyne owns dead balls). Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: no heat/altitude factor (Seattle, evening kickoff); Belgium expected to control ball vs. lower-seeded USA, mild lean toward volume holding up. Lineup status (T-90): not yet officially confirmed — outlets report official XIs typically post ~60 min before kickoff, later than this checkpoint; re-verify before treating as final."
     },
     {
       "player": "Breel Embolo",

@@ -74,7 +74,19 @@
       "sharp": "51.2%",
       "case_one_line": "Two-book consensus 51.2% \u2014 new highest-edge sub-threshold SOT candidate for this fixture now that Trossard's line dropped off the board (market-coverage gap, not a lineup signal \u2014 Trossard remains a confirmed starter). Doku confirmed starter, direct/high-volume shot profile, no sub-risk flag.",
       "result": "pending",
-      "notes": "T-24 run at 2026-07-06T21:54Z, ~2h before kickoff. Ref Adham Makhadmeh confirmed; fouls not playable this tournament."
+      "notes": "T-24 run at 2026-07-06T21:54Z, ~2h before kickoff. Ref Adham Makhadmeh confirmed; fouls not playable this tournament. Trossard's line returned to the board by the T-90 pull, reclaiming this fixture's exhibition slot (see row below) \u2014 this row still stands on its own for calibration if Doku plays."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Belgium vs United States",
+      "player": "Leandro Trossard",
+      "stat": "Shots on target",
+      "line": "0.5",
+      "side": "Over",
+      "sharp": "54.2%",
+      "case_one_line": "Two-book consensus 54.2% on the 0.5 line \u2014 Belgium's highest-floor SOT play on the board; predicted starter, reported fit, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament.",
+      "result": "pending",
+      "notes": "T-90 run at 2026-07-06T22:27Z, ~93 min before kickoff. Full card: 0 qualifying plays, 0 shadow candidates for this fixture \u2014 devig sharp coverage is SOT-only this tournament and nothing cleared 57% except this exhibition line. Lineup check: official confirmed XI not yet posted at this pull; ESPN and FOX Sports predicted lineups (published same day) both list Trossard starting \u2014 treat as predicted, not confirmed, pending a closer-to-kickoff recheck."
     },
     {
       "date": "2026-07-07",
@@ -160,7 +172,7 @@
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
       "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z."
+      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z."
     },
     {
       "date": "2026-07-06",
@@ -172,7 +184,19 @@
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
       "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z."
+      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z."
+    },
+    {
+      "date": "2026-07-06",
+      "match": "Belgium vs United States",
+      "player": "Kevin De Bruyne",
+      "stat": "Shots",
+      "line": "2.5",
+      "side": "\u2014",
+      "sharp": "\u2014",
+      "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
+      "would_it_have_won": "pending",
+      "notes": "T-90 run 2026-07-06T22:27Z, ~93 min before kickoff."
     },
     {
       "date": "2026-07-07",
@@ -247,5 +271,5 @@
       "notes": "T-24 run 2026-07-06T18:22Z \u2014 outside the ~36h focus window but logged per divergence script output."
     }
   ],
-  "exported_at": "2026-07-06T22:28:52Z"
+  "exported_at": "2026-07-06T22:34:08Z"
 }
