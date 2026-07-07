@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T19:11:26Z",
+  "generated_at": "2026-07-07T20:11:32Z",
   "checkpoint": "auto",
   "status": "ok",
   "config": {
@@ -11,24 +11,6 @@
   "plays": [],
   "shadow": [],
   "vetoed": [
-    {
-      "player": "Dan Ndoye",
-      "team": "Switzerland",
-      "opponent": "Colombia",
-      "stat": "shots_on_target",
-      "pp_line": 0.5,
-      "start_time": "2026-07-07T16:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
-    {
-      "player": "Davinson S\u00e1nchez",
-      "team": "Colombia",
-      "opponent": "Switzerland",
-      "stat": "shots",
-      "pp_line": 0.5,
-      "start_time": "2026-07-07T16:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
     {
       "player": "Bradley Barcola",
       "team": "France",
@@ -67,5 +49,5 @@
     }
   ],
   "exhibition": [],
-  "unmatched_count": 53
+  "unmatched_count": 36
 }
