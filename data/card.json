@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:58:37Z",
+  "generated_at": "2026-07-07T11:28:42Z",
   "checkpoint": "auto",
   "status": "ok",
   "config": {
@@ -18,8 +18,8 @@
       "pp_line": 0.5,
       "start_time": "2026-07-07T16:00:00.000-04:00",
       "side": "over",
-      "sharp_prob": 0.5797,
-      "edge_vs_power2_floor": 0.0023,
+      "sharp_prob": 0.5802,
+      "edge_vs_power2_floor": 0.0028,
       "books_used": [
         "novig",
         "sleeper"
@@ -104,8 +104,8 @@
       "pp_line": 0.5,
       "start_time": "2026-07-07T16:00:00.000-04:00",
       "side": "over",
-      "sharp_prob": 0.5797,
-      "edge_vs_power2_floor": 0.0023,
+      "sharp_prob": 0.5802,
+      "edge_vs_power2_floor": 0.0028,
       "books_used": [
         "novig",
         "sleeper"
