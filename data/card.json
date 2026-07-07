@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T13:29:02Z",
+  "generated_at": "2026-07-07T13:59:07Z",
   "checkpoint": "auto",
   "status": "ok",
   "config": {
@@ -50,15 +50,6 @@
       "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
     },
     {
-      "player": "Mohamed Salah",
-      "team": "Egypt",
-      "opponent": "Argentina",
-      "stat": "shots_on_target",
-      "pp_line": 0.5,
-      "start_time": "2026-07-07T12:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
-    {
       "player": "Dan Ndoye",
       "team": "Switzerland",
       "opponent": "Colombia",
@@ -105,6 +96,25 @@
     }
   ],
   "exhibition": [
+    {
+      "player": "Mohamed Salah",
+      "team": "Egypt",
+      "opponent": "Argentina",
+      "stat": "shots_on_target",
+      "pp_line": 0.5,
+      "start_time": "2026-07-07T12:00:00.000-04:00",
+      "side": "under",
+      "sharp_prob": 0.5486,
+      "edge_vs_power2_floor": -0.0288,
+      "books_used": [
+        "novig",
+        "sleeper"
+      ],
+      "flags": [],
+      "fixture": "2026-07-07 Argentina vs Egypt",
+      "label": "below threshold",
+      "case": null
+    },
     {
       "player": "Breel Embolo",
       "team": "Switzerland",
