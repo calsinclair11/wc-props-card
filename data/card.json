@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T13:59:07Z",
+  "generated_at": "2026-07-07T14:29:12Z",
   "checkpoint": "auto",
   "status": "ok",
   "config": {
@@ -18,8 +18,8 @@
       "pp_line": 0.5,
       "start_time": "2026-07-07T16:00:00.000-04:00",
       "side": "over",
-      "sharp_prob": 0.5802,
-      "edge_vs_power2_floor": 0.0028,
+      "sharp_prob": 0.5731,
+      "edge_vs_power2_floor": -0.0043,
       "books_used": [
         "novig",
         "sleeper"
@@ -104,8 +104,8 @@
       "pp_line": 0.5,
       "start_time": "2026-07-07T12:00:00.000-04:00",
       "side": "under",
-      "sharp_prob": 0.5486,
-      "edge_vs_power2_floor": -0.0288,
+      "sharp_prob": 0.529,
+      "edge_vs_power2_floor": -0.0484,
       "books_used": [
         "novig",
         "sleeper"
@@ -123,8 +123,8 @@
       "pp_line": 0.5,
       "start_time": "2026-07-07T16:00:00.000-04:00",
       "side": "over",
-      "sharp_prob": 0.5802,
-      "edge_vs_power2_floor": 0.0028,
+      "sharp_prob": 0.5731,
+      "edge_vs_power2_floor": -0.0043,
       "books_used": [
         "novig",
         "sleeper"
