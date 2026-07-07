@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T23:45:09Z",
+  "generated_at": "2026-07-07T00:15:17Z",
   "checkpoint": "auto",
   "status": "ok",
   "config": {
@@ -11,24 +11,6 @@
   "plays": [],
   "shadow": [],
   "vetoed": [
-    {
-      "player": "Alex Freeman",
-      "team": "United States",
-      "opponent": "Belgium",
-      "stat": "shots",
-      "pp_line": 0.5,
-      "start_time": "2026-07-06T20:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
-    {
-      "player": "Dodi Luk\u00e9bakio",
-      "team": "Belgium",
-      "opponent": "United States",
-      "stat": "shots_on_target",
-      "pp_line": 0.5,
-      "start_time": "2026-07-06T20:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
     {
       "player": "Lionel Messi",
       "team": "Argentina",
@@ -64,30 +46,18 @@
       "pp_line": 0.5,
       "start_time": "2026-07-07T16:00:00.000-04:00",
       "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
+    },
+    {
+      "player": "Bradley Barcola",
+      "team": "France",
+      "opponent": "Morocco",
+      "stat": "shots",
+      "pp_line": 1.5,
+      "start_time": "2026-07-09T16:00:00.000-04:00",
+      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
     }
   ],
   "exhibition": [
-    {
-      "player": "Leandro Trossard",
-      "team": "Belgium",
-      "opponent": "United States",
-      "stat": "shots_on_target",
-      "pp_line": 0.5,
-      "start_time": "2026-07-06T20:00:00.000-04:00",
-      "side": "over",
-      "sharp_prob": 0.5479,
-      "edge_vs_power2_floor": -0.0295,
-      "books_used": [
-        "novig",
-        "sleeper"
-      ],
-      "flags": [],
-      "fixture": "2026-07-06 Belgium vs United States",
-      "label": "below threshold",
-      "case": "Two-book consensus 54.2% on the 0.5 line \u2014 Belgium's highest-floor SOT play on the board; confirmed starter, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament. T-90 lineup check (2026-07-06T23:01Z, ~59 min pre-kickoff): official USA and Belgium starting XIs confirmed via ESPN/FOX Sports/US Soccer \u2014 Trossard starts at LW. De Bruyne and Doku also confirmed starting despite both dropping off the PrizePicks board this run \u2014 confirms that dropoff was a market-coverage gap, not a lineup signal. No yellow-card suspension risk for Trossard (clean card, R16 knockout).",
-      "layer_notes": "Layer 2: inverted-LW-cuts-inside role transfers cleanly from Arsenal; no set-piece bump (De Bruyne owns dead balls). Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: no heat/altitude factor (Seattle, evening kickoff); Belgium expected to control ball vs. lower-seeded USA, mild lean toward volume holding up. Lineup status (T-90 final): CONFIRMED starting via official/press lineups \u2014 no bench kill.",
-      "play_status": "confirmed starting"
-    },
     {
       "player": "Breel Embolo",
       "team": "Switzerland",
@@ -109,5 +79,5 @@
       "layer_notes": "Layer 2: central-striker role transfers cleanly from club profile; Xhaka is primary penalty taker, Embolo backup only \u2014 no bump. Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: Switzerland's compact transition-based style caps team shot volume vs. a possession-heavy Colombia side \u2014 mild lean toward the under on teammates' volume props, doesn't touch Embolo's focal-scorer role."
     }
   ],
-  "unmatched_count": 79
+  "unmatched_count": 57
 }
