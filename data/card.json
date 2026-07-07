@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:55:20Z",
+  "generated_at": "2026-07-07T05:25:24Z",
   "checkpoint": "auto",
   "status": "ok",
   "config": {
@@ -9,7 +9,27 @@
     "stale_minutes": 60
   },
   "plays": [],
-  "shadow": [],
+  "shadow": [
+    {
+      "player": "Breel Embolo",
+      "team": "Switzerland",
+      "opponent": "Colombia",
+      "stat": "shots_on_target",
+      "pp_line": 0.5,
+      "start_time": "2026-07-07T16:00:00.000-04:00",
+      "side": "over",
+      "sharp_prob": 0.5797,
+      "edge_vs_power2_floor": 0.0023,
+      "books_used": [
+        "novig",
+        "sleeper"
+      ],
+      "flags": [],
+      "tier": "shadow",
+      "case": "Two-book consensus 53.5% on the 0.5 line \u2014 Embolo is Switzerland's focal point and leading scorer, predicted starter, no injury concern; backup (not primary) penalty taker so no set-piece bump. Ref Barton Cisneros confirmed, fouls not playable this tournament.",
+      "layer_notes": "Layer 2: central-striker role transfers cleanly from club profile; Xhaka is primary penalty taker, Embolo backup only \u2014 no bump. Layer 3: no sub-risk pattern found this tournament, no veto. Layer 4: Switzerland's compact transition-based style caps team shot volume vs. a possession-heavy Colombia side \u2014 mild lean toward the under on teammates' volume props, doesn't touch Embolo's focal-scorer role."
+    }
+  ],
   "vetoed": [
     {
       "player": "Lionel Messi",
@@ -84,13 +104,14 @@
       "pp_line": 0.5,
       "start_time": "2026-07-07T16:00:00.000-04:00",
       "side": "over",
-      "sharp_prob": 0.5345,
-      "edge_vs_power2_floor": -0.0429,
+      "sharp_prob": 0.5797,
+      "edge_vs_power2_floor": 0.0023,
       "books_used": [
         "novig",
         "sleeper"
       ],
       "flags": [],
+      "tier": "shadow",
       "fixture": "2026-07-07 Colombia vs Switzerland",
       "label": "below threshold",
       "case": "Two-book consensus 53.5% on the 0.5 line \u2014 Embolo is Switzerland's focal point and leading scorer, predicted starter, no injury concern; backup (not primary) penalty taker so no set-piece bump. Ref Barton Cisneros confirmed, fouls not playable this tournament.",
