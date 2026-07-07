@@ -61,8 +61,8 @@
       "side": "Over",
       "sharp": "54.5%",
       "case_one_line": "Two-book consensus 54.5%; predicted starter, reported fit, role transfers cleanly from Arsenal, no set-piece bump, possession edge vs. USA supports volume.",
-      "result": "pending",
-      "notes": "T-24 run at 2026-07-06T18:22Z, ~5.6h before kickoff. Ref Adham Makhadmeh confirmed; fouls not playable this tournament. Superseded as the card's exhibition pick by the 21:54Z run below (Trossard's line dropped off the board) \u2014 this row stands on its own and still settles from the box score if he plays."
+      "result": "loss",
+      "notes": "T-24 run at 2026-07-06T18:22Z, ~5.6h before kickoff. Ref Adham Makhadmeh confirmed; fouls not playable this tournament. Superseded as the card's exhibition pick by the 21:54Z run below (Trossard's line dropped off the board) \u2014 this row stands on its own and still settles from the box score if he plays. SETTLED: Belgium won 4-1. Trossard 4 shots, 0 on target (ESPN box score) \u2014 under 0.5."
     },
     {
       "date": "2026-07-06",
@@ -85,8 +85,8 @@
       "side": "Over",
       "sharp": "54.2%",
       "case_one_line": "Two-book consensus 54.2% on the 0.5 line \u2014 Belgium's highest-floor SOT play on the board; predicted starter, reported fit, no minutes-veto pattern; possession edge vs. USA supports volume. Ref Makhadmeh confirmed, fouls not playable this tournament.",
-      "result": "pending",
-      "notes": "T-90 run at 2026-07-06T22:27Z, ~93 min before kickoff. Full card: 0 qualifying plays, 0 shadow candidates for this fixture \u2014 devig sharp coverage is SOT-only this tournament and nothing cleared 57% except this exhibition line. Lineup check: official confirmed XI not yet posted at this pull; ESPN and FOX Sports predicted lineups (published same day) both list Trossard starting \u2014 treat as predicted, not confirmed, pending a closer-to-kickoff recheck."
+      "result": "loss",
+      "notes": "T-90 run at 2026-07-06T22:27Z, ~93 min before kickoff. Full card: 0 qualifying plays, 0 shadow candidates for this fixture \u2014 devig sharp coverage is SOT-only this tournament and nothing cleared 57% except this exhibition line. Lineup check: official confirmed XI not yet posted at this pull; ESPN and FOX Sports predicted lineups (published same day) both list Trossard starting \u2014 treat as predicted, not confirmed, pending a closer-to-kickoff recheck. SETTLED: Belgium won 4-1. Trossard 4 shots, 0 on target (ESPN box score) \u2014 under 0.5."
     },
     {
       "date": "2026-07-06",
@@ -97,8 +97,8 @@
       "side": "Over",
       "sharp": "54.15%",
       "case_one_line": "Re-pull at T-90 final, 2026-07-06T23:01Z (~59 min pre-kickoff): consensus unchanged (novig + sleeper), same line, no edge decay. Confirmed starter \u2014 official USA/Belgium XIs now posted (ESPN, FOX Sports, US Soccer): Trossard starts at LW. No yellow-card suspension risk. Card-wide: 0 qualifying plays, 0 shadow candidates for this fixture on this pull.",
-      "result": "pending",
-      "notes": "Final T-90 confirmation row \u2014 supersedes the \"predicted, not confirmed\" caveat on the row above; both rows stand for calibration. De Bruyne's and Doku's shots/SOT lines dropped off the PrizePicks board entirely on this pull. CORRECTION (post-team-sheet): the run's original note said both were 'confirmed starting anyway' based on predicted XIs \u2014 in fact BOTH were benched. The line removals WERE the lineup signal. Predicted lineups are not confirmation; only the official team sheet is."
+      "result": "loss",
+      "notes": "Final T-90 confirmation row \u2014 supersedes the \"predicted, not confirmed\" caveat on the row above; both rows stand for calibration. De Bruyne's and Doku's shots/SOT lines dropped off the PrizePicks board entirely on this pull. CORRECTION (post-team-sheet): the run's original note said both were 'confirmed starting anyway' based on predicted XIs \u2014 in fact BOTH were benched. The line removals WERE the lineup signal. Predicted lineups are not confirmation; only the official team sheet is. SETTLED: Belgium won 4-1. Trossard 4 shots, 0 on target (ESPN box score) \u2014 under 0.5. Three exhibition rows on this fixture (T-24, T-90, T-90 final) all settle the same way \u2014 the line and player never moved."
     },
     {
       "date": "2026-07-07",
@@ -183,8 +183,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "Doku confirmed starting",
-      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z. Line dropped off the PrizePicks board entirely by the T-90 final re-pull (23:01Z) \u2014 Doku confirmed starting regardless, market-coverage gap not a lineup signal."
+      "would_it_have_won": "Void \u2014 did not start",
+      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z. Line dropped off the PrizePicks board entirely by the T-90 final re-pull (23:01Z) \u2014 market-coverage gap, not a lineup signal at the time, but the official team sheet later showed Doku benched. SETTLED: Belgium benched Doku; he entered as a 67' substitute. Did not start = void per settlement rules, regardless of playing time off the bench."
     },
     {
       "date": "2026-07-06",
@@ -195,8 +195,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z, and again at the T-90 final re-pull (23:01Z). Alex Freeman confirmed starting (USA RB)."
+      "would_it_have_won": "Over: yes (3 shots)",
+      "notes": "T-24 run 2026-07-06T18:22Z. Reconfirmed still one-book at the T-90 run 2026-07-06T22:27Z, and again at the T-90 final re-pull (23:01Z). Alex Freeman confirmed starting (USA RB). SETTLED: Freeman recorded 3 shots (ESPN box score, includes blocked/headers per Opta) \u2014 clears 0.5. Would have won on the over; veto (one-book) cost a winner here."
     },
     {
       "date": "2026-07-06",
@@ -207,8 +207,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "De Bruyne confirmed starting",
-      "notes": "T-90 run 2026-07-06T22:27Z, ~93 min before kickoff. Line dropped off the PrizePicks board entirely by the T-90 final re-pull (23:01Z) \u2014 De Bruyne confirmed starting (captain, CM) regardless, market-coverage gap not a lineup signal."
+      "would_it_have_won": "Void \u2014 did not start",
+      "notes": "T-90 run 2026-07-06T22:27Z, ~93 min before kickoff. Line dropped off the PrizePicks board entirely by the T-90 final re-pull (23:01Z) \u2014 market-coverage gap, not a lineup signal at the time, but the official team sheet later showed De Bruyne benched. SETTLED: De Bruyne was an unused substitute \u2014 did not enter the match. Did not start = void per settlement rules."
     },
     {
       "date": "2026-07-07",
@@ -283,5 +283,5 @@
       "notes": "T-24 run 2026-07-06T18:22Z \u2014 outside the ~36h focus window but logged per divergence script output."
     }
   ],
-  "exported_at": "2026-07-07T17:11:07Z"
+  "exported_at": "2026-07-07T17:13:37Z"
 }
