@@ -109,8 +109,8 @@
       "side": "Over",
       "sharp": "53.5%",
       "case_one_line": "Two-book consensus 53.5%; Switzerland's focal point/leading scorer, predicted starter, no injury concern; backup (not primary) penalty taker so no set-piece bump.",
-      "result": "pending",
-      "notes": "T-24 run at 2026-07-06T18:22Z. Ref Ivan Arcides Barton Cisneros confirmed; fouls not playable this tournament. Re-confirmed unchanged by the 21:54Z run."
+      "result": "loss",
+      "notes": "0 shots, 0 SOT \u2014 subbed 87' in a 0-0 (Switzerland advanced on pens; shootout excluded from settlement anyway)."
     }
   ],
   "vetoed": [
@@ -219,8 +219,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z. Also note: separate 5.0 shots line for Messi failed line-match (books post 4.5) \u2014 no veto row needed, just unmatched. Ref confirmed as of 21:54Z run: Fran\u00e7ois Letexier; fouls not playable this tournament."
+      "would_it_have_won": "Over: no (2 SOT)",
+      "notes": "2 SOT (21' saved pen + 83' goal) on 10 shots \u2014 the under side would have won; tournament mode's top-ranked leg (Messi u2.5 @ 56.5% novig) was right but never placeable (fixture left the board before official lineups). Argentina 3-2."
     },
     {
       "date": "2026-07-07",
@@ -231,8 +231,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z. Line no longer on the board as of the 21:54Z run \u2014 market-coverage gap on the unofficial board, not confirmed as a lineup signal; will be checked again at T-90."
+      "would_it_have_won": "Void \u2014 unused sub",
+      "notes": "Line vanished from the board a full day pre-match and STAYED gone; Almada never played. Informed-removal signal, third confirmation (after Doku and De Bruyne)."
     },
     {
       "date": "2026-07-07",
@@ -243,8 +243,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z. Ref confirmed as of 21:54Z run: Fran\u00e7ois Letexier; fouls not playable this tournament."
+      "would_it_have_won": "Over: no (1 shot)",
+      "notes": "Started; his one shot was the 90+2' headed winner."
     },
     {
       "date": "2026-07-07",
@@ -255,8 +255,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z."
+      "would_it_have_won": "Over: no (0 SOT)",
+      "notes": "Started; single shot off target at 90+1'."
     },
     {
       "date": "2026-07-07",
@@ -267,8 +267,8 @@
       "side": "\u2014",
       "sharp": "\u2014",
       "veto_reason": "Sharp hierarchy: one soft book only (sleeper)",
-      "would_it_have_won": "pending",
-      "notes": "T-24 run 2026-07-06T18:22Z."
+      "would_it_have_won": "Over: no (0 shots in 90')",
+      "notes": "Both his attempts came after 90' (93' set piece + shootout pen) \u2014 excluded by the ET settlement rule. Textbook case of why the rule exists."
     },
     {
       "date": "2026-07-09",
@@ -283,5 +283,5 @@
       "notes": "T-24 run 2026-07-06T18:22Z \u2014 outside the ~36h focus window but logged per divergence script output."
     }
   ],
-  "exported_at": "2026-07-08T11:30:15Z"
+  "exported_at": "2026-07-08T17:30:55Z"
 }
