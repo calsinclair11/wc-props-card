@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T20:11:32Z",
+  "generated_at": "2026-07-08T11:30:15Z",
   "checkpoint": "auto",
   "status": "ok",
   "config": {
@@ -12,11 +12,29 @@
   "shadow": [],
   "vetoed": [
     {
+      "player": "Kylian Mbapp\u00e9",
+      "team": "France",
+      "opponent": "Morocco",
+      "stat": "shots",
+      "pp_line": 4.5,
+      "start_time": "2026-07-09T16:00:00.000-04:00",
+      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
+    },
+    {
       "player": "Bradley Barcola",
       "team": "France",
       "opponent": "Morocco",
       "stat": "shots",
       "pp_line": 1.5,
+      "start_time": "2026-07-09T16:00:00.000-04:00",
+      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
+    },
+    {
+      "player": "Jules Kound\u00e9",
+      "team": "France",
+      "opponent": "Morocco",
+      "stat": "shots",
+      "pp_line": 0.5,
       "start_time": "2026-07-09T16:00:00.000-04:00",
       "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
     },
@@ -49,5 +67,5 @@
     }
   ],
   "exhibition": [],
-  "unmatched_count": 36
+  "unmatched_count": 44
 }
