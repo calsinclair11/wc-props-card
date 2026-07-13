@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T11:30:15Z",
-  "checkpoint": "auto",
+  "generated_at": "2026-07-13T23:46:08Z",
+  "checkpoint": "manual (semifinal eve)",
   "status": "ok",
   "config": {
     "breakeven_floor": 0.5774,
@@ -10,62 +10,7 @@
   },
   "plays": [],
   "shadow": [],
-  "vetoed": [
-    {
-      "player": "Kylian Mbapp\u00e9",
-      "team": "France",
-      "opponent": "Morocco",
-      "stat": "shots",
-      "pp_line": 4.5,
-      "start_time": "2026-07-09T16:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
-    {
-      "player": "Bradley Barcola",
-      "team": "France",
-      "opponent": "Morocco",
-      "stat": "shots",
-      "pp_line": 1.5,
-      "start_time": "2026-07-09T16:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
-    {
-      "player": "Jules Kound\u00e9",
-      "team": "France",
-      "opponent": "Morocco",
-      "stat": "shots",
-      "pp_line": 0.5,
-      "start_time": "2026-07-09T16:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
-    {
-      "player": "\u00c1lex Baena",
-      "team": "Spain",
-      "opponent": "Belgium",
-      "stat": "shots_on_target",
-      "pp_line": 0.5,
-      "start_time": "2026-07-10T15:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
-    {
-      "player": "Erling Haaland",
-      "team": "Norway",
-      "opponent": "England",
-      "stat": "shots_on_target",
-      "pp_line": 1.5,
-      "start_time": "2026-07-11T17:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    },
-    {
-      "player": "Bukayo Saka",
-      "team": "England",
-      "opponent": "Norway",
-      "stat": "shots_on_target",
-      "pp_line": 0.5,
-      "start_time": "2026-07-11T17:00:00.000-04:00",
-      "veto": "sharp hierarchy: only 1 book(s) \u2014 one soft book is never a baseline"
-    }
-  ],
+  "vetoed": [],
   "exhibition": [],
-  "unmatched_count": 44
+  "unmatched_count": 0
 }
